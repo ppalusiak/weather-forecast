@@ -1,0 +1,8 @@
+.forecast-portion {
+    border-radius: 4px;
+    border: solid 1px #444;
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 6px;
+    margin: 4px;
+}
